@@ -35,6 +35,6 @@ This program is an ongoing project. Contributions and suggestions for improvemen
 This program is licensed under the [MIT License.](https://chat.openai.com/LICENSE)
 
 ## Acknowledgements
-I would like to thank Dr. Angela Yu who has help improve my understanding of Python.
+I would like to thank Dr. Angela Yu who has helped improve my understanding of Python.
 
 Thank you for using Password Generator.
